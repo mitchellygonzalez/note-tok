@@ -14,8 +14,8 @@ app.use(express.urlencoded({extended: false}));
 app.use(express.json());
 
 
-// HTML routes
-app.get("/", (req, res) => {
+// HTML routes /// Changed line 18 it to * instead of / hopefully still works
+app.get("*", (req, res) => {
     res.sendFile(path.join(__dirname, './public/index.html'))
 }) 
 
