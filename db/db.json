@@ -1,6 +1,17 @@
 [
     {
-        "title":"Test Title",
-        "text":"Test text"
+        "title": "First",
+        "text": "Text 1",
+        "id": "f7fa3c19-bc97-4d09-b063-584a6205bdd5"
+    },
+    {
+        "title": "asdsa",
+        "text": "asdas",
+        "id": "bf2c5a7e-0ba7-4847-85f3-c13545b1af25"
+    },
+    {
+        "title": "Note 1",
+        "text": "This is the note text",
+        "id": "547e3365-ddd0-4a23-b74b-9d97c1659bbc"
     }
 ]
