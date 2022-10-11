@@ -1,8 +1,6 @@
 # Note-Tok
-Note-Tok is an application that can be used to write and save notes. 
 
 #### Github link: https://github.com/mitchellygonzalez/note-tok
-
 
 ## Table of Contents
 * [Description](#description)
@@ -15,9 +13,13 @@ Note-Tok is an application that can be used to write and save notes.
 * [Questions](#questions)
  
 ## Description
-This note-tok app serves to...
+This note-tok app serves to allow users to write notes and save them. 
 
-![Alt text](/posts/path/to/img.jpg "First Page")
+![Alt text](https://user-images.githubusercontent.com/107009737/195147939-548bd1d9-dca9-4631-9d2c-636a44951e22.png "First Page")
+
+
+![Alt text](https://user-images.githubusercontent.com/107009737/195153092-aefb4cf5-fb76-459e-a394-8bd73bb68e70.png "Second Page")
+
 
 ## User Story
 AS A small business owner
